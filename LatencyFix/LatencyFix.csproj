@@ -58,7 +58,6 @@
   <ItemGroup>
     <Compile Include="LatencyBehaviour.cs" />
     <Compile Include="MyModMeta.cs" />
-    <Compile Include="PingBehaviour.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
